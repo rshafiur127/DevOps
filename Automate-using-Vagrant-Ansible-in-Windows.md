@@ -28,14 +28,4 @@
           python3-winrm 
           python3-xmltodict
           
-shafiur@ShafiurRahman:~$ ansible --version
-  ansible [core 2.12.2]
-  config file = /etc/ansible/ansible.cfg
-  configured module search path = ['/home/shafiur/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
-  ansible python module location = /usr/lib/python3/dist-packages/ansible
-  ansible collection location = /home/shafiur/.ansible/collections:/usr/share/ansible/collections
-  executable location = /usr/bin/ansible
-  python version = 3.8.10 (default, Nov 26 2021, 20:14:08) [GCC 9.3.0]
-  jinja version = 2.10.1
-  libyaml = True
-  
+          shafiur@ShafiurRahman:~$ ansible --version                                                                                                                                                               ansible [core 2.12.2]                                                                                                                                                             config file = /etc/ansible/ansible.cfg                                                                                                                                           configured module search path = ['/home/shafiur/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']                                                                 ansible python module location = /usr/lib/python3/dist-packages/ansible                                                                                                           ansible collection location = /home/shafiur/.ansible/collections:/usr/share/ansible/collections                                                                                   executable location = /usr/bin/ansible                                                                                                                                           python version = 3.8.10 (default, Nov 26 2021, 20:14:08) [GCC 9.3.0]                                                                                                             jinja version = 2.10.1                                                                                                                                                           libyaml = True                 
